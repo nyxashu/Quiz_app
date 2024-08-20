@@ -10,7 +10,7 @@ Easy to Use: A simple command-line interface guides users through the quiz.<br>
 Clone the repository:
 
  code
-git clone https://github.com/yourusername/quiz-application.git
+git clone https://github.com/nyxashu/Quiz_app.git
 Navigate to the project directory:
 
  code
