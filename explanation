@@ -1,0 +1,19 @@
+Explanation:
+
+questions: A list of dictionaries, each representing a question with its options and correct answer.
+
+run_quiz(): This function iterates through the questions, prompts the user for an answer, and checks if the answer is correct. It keeps track of the score.
+
+main(): The entry point of the application, welcoming the user and starting the quiz.
+
+Running the Application:
+
+Save the quiz_app.py file.
+
+Open a terminal or command prompt.
+
+Navigate to the directory where quiz_app.py is saved.
+
+Run the script using the command: python quiz_app.py.
+
+The application will ask the user each question, record their answers, and display their final score at the end of the quiz.
